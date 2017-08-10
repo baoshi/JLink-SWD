@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name LC-Standard-FootPrints)(type KiCad)(uri ${KIUSRMOD}\LC-Standard-FootPrints.pretty)(options "")(descr ""))
+  (lib (name Z_Connector)(type KiCad)(uri ${KIUSRMOD}\Z_Connector.pretty)(options "")(descr ""))
+)

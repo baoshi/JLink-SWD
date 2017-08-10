@@ -1,0 +1,11 @@
+###############
+## KiCad      
+###############
+*.bak
+*.kicad_pcb-bak
+*cache.lib
+*.bck
+*.log
+*.net
+fab/
+gerber/
